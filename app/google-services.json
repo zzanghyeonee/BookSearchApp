@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33843766124",
+    "firebase_url": "https://myfirebaselogin-db079.firebaseio.com",
+    "project_id": "myfirebaselogin-db079",
+    "storage_bucket": "myfirebaselogin-db079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33843766124:android:1881251fc6cb8060",
+        "android_client_info": {
+          "package_name": "kr.ac.jbnu.se.stkim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33843766124-ffp9612mf917kv5ag9bj50en9ssc3upr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBO7D8qTsIDeBADBFw9M2U6zlTaISTqz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33843766124-ffp9612mf917kv5ag9bj50en9ssc3upr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
